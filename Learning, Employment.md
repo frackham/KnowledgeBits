@@ -1,5 +1,9 @@
 ## Learning
 
+### Mailing lists
+Automate the Planet
+
+
 
 
 ### Pluralsight

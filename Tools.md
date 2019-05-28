@@ -18,9 +18,16 @@ See sonarsource rules.
 #### Network
 Glasswire.
 
+## Visual Studio Code
+Bracket pair colorizer
+
 
 -----------------------------------------------------------------------
 ## Setup for New work
 
 ### Debugging
 Glasswire.
+
+
+### SQL
+OpenDBDiff
