@@ -8,8 +8,12 @@ Moq.
 
 ### Visual Studio
 
+#### Path to Solution
+''' c-sharp
+var dir = AppDomain.CurrentDomain.BaseDirectory;
+'''
 
-c#
+
 https://www.automatetheplanet.com/applications/most-complete-nunit-cheat-sheet/
 This only works if the object is fully serializable.
 (new System.Xml.Serialization.XmlSerializer(obj.GetType())).Serialize(new System.IO.StreamWriter(@"c:\temp\text.xml"), obj)
