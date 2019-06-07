@@ -31,6 +31,8 @@ Things to help work:
 -           https://github.com/Microsoft/vscode-htmlhint/issues/33 <-- also, ideally htmlhint should support ignore files… see other projects.
 
 ## Git
+Git cheat sheet - https://github.com/bennadel/git-cheat-sheet
+
 Meet GitHub Actions 👋
 It might just change the way you work.
 http://github.com/features/actions https://twitter.com/github/status/1052248654445076481/video/1
