@@ -45,7 +45,7 @@ send function/ calc function.
 ## architecture
 John staveley
 get slides for messaging diagrams.
-
+slides are here: https://www.slideshare.net/johnstaveley/messaging-rabbitmq-azure-service-bus-docker-and-azure-functions , code here: https://github.com/johnstaveley/MessagingPresentation , any questions to Twitter: @johnstaveley
 
 ### one way
 still scale improvement over .
